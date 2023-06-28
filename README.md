@@ -7,4 +7,4 @@ Codes for scraping different website (e.g., twitter, IMF). In general, there are
 
 Examples:
 - Twitter - tweets about Nasdaq
-![My Image](twitter/tweet_nasdaq_example.png)
+![tweet_nasdaq](twitter/tweet_nasdaq_example.png)
